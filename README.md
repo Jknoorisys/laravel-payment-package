@@ -17,7 +17,7 @@ Noorisys\PaypalPayment\Providers\PaypalPaymentServiceProvider::class,
 
 ## Configuration
 
-Laravel Stripe requires connection configuration. To get started, you'll need to publish all vendor assets:
+Laravel PayPal requires connection configuration. To get started, you'll need to publish all vendor assets:
 
 ```bash
 $ php artisan vendor:publish --provider="Noorisys\PaypalPayment\Providers\PaypalPaymnetServiceProvider" --force
